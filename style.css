@@ -1,0 +1,18 @@
+/*basic layout*/
+html{
+    font-size: 10 px;
+}
+
+/*header*/
+div.header{
+    display:flex;
+    margin-bottom: 10px;
+}
+
+
+
+/*body*/
+
+
+
+/*flex image to the side*/
