@@ -15,8 +15,11 @@ header img{
     padding-top : 20.15px;
 }
 
+/*Middle image& flex image to side of body with lists*/
+.caption{
+    display: block; 
+}
 /*body*/
 
 
 
-/*flex image to the side*/
