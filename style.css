@@ -1,15 +1,19 @@
 /*basic layout*/
 html{
-    font-size: 10 px;
+    font-size: 10px;
 }
 
 /*header*/
-div.header{
+.header{
     display:flex;
     margin-bottom: 10px;
 }
 
-
+header img{
+    display : block;
+    height : 60px;
+    padding-top : 20.15px;
+}
 
 /*body*/
 
