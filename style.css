@@ -4,6 +4,12 @@ html{
 }
 
 /*header*/
+.wrapper{
+    font-size: 10px;
+
+}
+
+
 .header{
     display:flex;
     margin-bottom: 10px;
@@ -19,6 +25,7 @@ header img{
 .caption{
     display: block; 
 }
+
 /*body*/
 
 
